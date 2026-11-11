@@ -48,7 +48,7 @@ A controller that receives data over the socket, processes the received data, an
 
 ### Author and Developer
 
-* Kirill Shutov (ShutovKS), Russia
+* xAFK-BOTx, Russia
 
 ### License
 
